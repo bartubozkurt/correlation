@@ -33,3 +33,5 @@ def correlation(x, y):
 
   
 correlation([1,2,3], [1,5,7])
+
+# 0.9819805060619659
